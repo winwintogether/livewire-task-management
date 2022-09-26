@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bi {
+  display: inline-block;
+  vertical-align: -.125em;
+  fill: currentcolor
+}
